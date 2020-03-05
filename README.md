@@ -1,4 +1,3 @@
-REMOTE
 # Fast-Burger
 
 Burger is an American multinational chain of hamburger fast food restaurants. 
